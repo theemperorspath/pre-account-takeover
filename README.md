@@ -24,7 +24,9 @@ git clone https://github.com/theemperorspath/pre-account-takeover.git
 cd pre-account-takeover
 
 # Open the lab (or deploy to your preferred environment)
-open index.html
+python3 -m http.server 8000
+
+Then open http://loclahost:8000 in your browser
 ```
 
 **Target Application:** SecureBank - A vulnerable banking application  
