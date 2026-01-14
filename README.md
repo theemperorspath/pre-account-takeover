@@ -18,10 +18,10 @@
 ## 🎯 Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/0days/pre-account-takeover-lab.git
+git clone https://github.com/theemperorspath/pre-account-takeover.git
 
 # Navigate to the lab
-cd pre-account-takeover-lab
+cd pre-account-takeover
 
 # Open the lab (or deploy to your preferred environment)
 open index.html
@@ -346,8 +346,8 @@ SOFTWARE.
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/0days)
 [![Email](https://img.shields.io/badge/Email-labs@0days.security-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labs@0days.security)
 
-**Found a bug in the lab?** [Open an issue](https://github.com/0days/pre-account-takeover-lab/issues)  
-**Have questions?** [Start a discussion](https://github.com/0days/pre-account-takeover-lab/discussions)
+**Found a bug in the lab?** [Open an issue](https://github.com/theemperorspath/pre-account-takeover/issues)  
+**Have questions?** [Start a discussion](https://github.com/theemperorspath/pre-account-takeover/discussions)
 
 </div>
 
@@ -359,7 +359,7 @@ SOFTWARE.
 
 **Remember: With great power comes great responsibility.**
 
-Made with ❤️ by the [0days Security Labs](https://0days.security) team
+Made with ❤️ by 0days_cyber
 
 ![0days Footer](https://img.shields.io/badge/Hack%20The%20Planet-Responsibly-critical?style=for-the-badge)
 
