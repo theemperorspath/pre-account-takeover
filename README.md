@@ -29,7 +29,7 @@ open index.html
 
 **Target Application:** SecureBank - A vulnerable banking application  
 **Victim Email:** `alice.smith@company.com`  
-**Your Goal:** Capture the flag by exploiting the pre-account takeover vulnerability
+**Your Goal:** Capture the f by exploiting the pre-account takeover vulnerability
 
 ---
 
@@ -116,7 +116,7 @@ You've discovered that **SecureBank** has a critical authentication flaw. Alice 
 - ✅ Pre-account created with victim's email
 - ✅ Victim logged in via OAuth into compromised account
 - ✅ Victim's sensitive data captured
-- ✅ Flag retrieved: `CTF{pr3_4cc0unt_t4k30v3r_1s_d4ng3r0us}`
+- ✅ Flag retrieved: `CTF{REDACTED}`
 
 ---
 
