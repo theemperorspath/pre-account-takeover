@@ -26,7 +26,7 @@ cd pre-account-takeover
 # Open the lab (or deploy to your preferred environment)
 python3 -m http.server 8000
 
-Then open http://loclahost:8000 in your browser
+Then open http://loclahost:8000/index.html in your browser
 ```
 
 **Target Application:** SecureBank - A vulnerable banking application  
